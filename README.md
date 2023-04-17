@@ -8,7 +8,7 @@
 
 <!--START_SECTION:WORK-->
 ***<p align = left>🌱 I'm currently learning WordPress Web Development</p>***
-***<p align = left>🔭 I'm currently working on Fiverr as a freelancer</p>***
+***<p align = left>🔭 I'm currently working on Fiverr as a freelancer <a href="https://www.fiverr.com/sand_dev00/responsive-wordpress-website-portfolio-design-redesign-fix-errors-elementor-pro">Hire me</a></p>***
 <!--END_SECTION:WORK-->
 
 <!--START_SECTION:SKILL-->
