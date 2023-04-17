@@ -3,7 +3,7 @@
 <!--END_SECTION:TITLE-->
 
 <!--START_SECTION:SUBTITLE-->
-### <p align = left>A passionate frontend developer from Sri Lanka</p>
+### <p align = center>A passionate frontend developer from Sri Lanka <br><br></p>
 <!--END_SECTION:SUBTITLE-->
 
 <!--START_SECTION:WORK-->
