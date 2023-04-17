@@ -14,6 +14,8 @@
 <!--START_SECTION:SKILL-->
 ## <p align = left> 🖥️ 	Tech Stack </p>
 <div align = left>
+<img src="https://img.shields.io/badge/wordpress-%233473d9.svg?style=flat&logo=wordpress&logoColor=white" alt=wordpress /> 
+                &ensp;
 <img src="https://img.shields.io/badge/c-%23555555.svg?style=plastic&logo=c&logoColor=white" alt=c /> 
                 &ensp;
 <img src="https://img.shields.io/badge/css3-%23563d7c.svg?style=plastic&logo=css3&logoColor=white" alt=css3 /> 
