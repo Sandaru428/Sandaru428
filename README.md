@@ -5,7 +5,7 @@
 <!--START_SECTION:SUBTITLE-->
 ### <p align = center>A passionate frontend developer from Sri Lanka <br><br></p>
 <div align = center>
-### <img src="https://raw.githubusercontent.com/Sandaru428/Sandaru428/main/Web-Development-01.png" alt="sandaru428" style="max width: 100%;" width="500" />
+<img src="https://raw.githubusercontent.com/Sandaru428/Sandaru428/main/Web-Development-01.png" alt="sandaru428" style="max width: 100%;" width="500" />
 <!--END_SECTION:SUBTITLE-->
 
 <!--START_SECTION:WORK-->
