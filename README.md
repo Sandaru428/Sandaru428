@@ -41,7 +41,7 @@
 <div align = left>
 <a href=https://www.facebook.com/profile.php?id=100040820630928&mibextid=ZbWKwL ><img src="https://img.shields.io/badge/facebook-Chamara Sandaruwan-%230165E1.svg?style=flat&logo=facebook&logoColor=white" 
                 alt=facebook /></a> &ensp;
-<a href=https://instagram.com/sandaruwan_428 ><img src="https://img.shields.io/badge/instagram-sandaruwan1360-%23E1306C.svg?style=flat&logo=instagram&logoColor=white" 
+<a href=https://instagram.com/sandaruwan_428?igshid=ZDc4ODBmNjlmNQ== ><img src="https://img.shields.io/badge/instagram-sandaruwan1360-%23E1306C.svg?style=flat&logo=instagram&logoColor=white" 
                 alt=instagram /></a> &ensp;
 <a href=https://github.com/Sandaru428 ><img src="https://img.shields.io/badge/github-Sandaru428-%231c1e21.svg?style=flat&logo=github&logoColor=white" 
                 alt=github /></a> &ensp;
