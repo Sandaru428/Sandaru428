@@ -39,7 +39,7 @@
 <!--START_SECTION:SOCIAL-->
 ## <p align = left> 🌏 	Connect with me </p>
 <div align = left>
-<a href=[https://facebook.com/Chamara Sandaruwan](https://www.facebook.com/profile.php?id=100040820630928&mibextid=ZbWKwL) ><img src="https://img.shields.io/badge/facebook-Chamara Sandaruwan-%230165E1.svg?style=flat&logo=facebook&logoColor=white" 
+<a href=https://www.facebook.com/profile.php?id=100040820630928&mibextid=ZbWKwL ><img src="https://img.shields.io/badge/facebook-Chamara Sandaruwan-%230165E1.svg?style=flat&logo=facebook&logoColor=white" 
                 alt=facebook /></a> &ensp;
 <a href=https://instagram.com/sandaruwan_428 ><img src="https://img.shields.io/badge/instagram-sandaruwan1360-%23E1306C.svg?style=flat&logo=instagram&logoColor=white" 
                 alt=instagram /></a> &ensp;
