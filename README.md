@@ -19,6 +19,8 @@
                 &ensp;
 <img src="https://img.shields.io/badge/c-%23555555.svg?style=plastic&logo=c&logoColor=white" alt=c /> 
                 &ensp;
+<img src="https://img.shields.io/badge/javascript-%23f1e05a.svg?style=flat&logo=javascript&logoColor=white" alt=javascript />
+                &ensp;
 <img src="https://img.shields.io/badge/css3-%23563d7c.svg?style=plastic&logo=css3&logoColor=white" alt=css3 /> 
                 &ensp;
 <img src="https://img.shields.io/badge/html5-%23e34c26.svg?style=plastic&logo=html5&logoColor=white" alt=html5 /> 
@@ -32,8 +34,6 @@
 <img src="https://img.shields.io/badge/arduino-%2300979C.svg?style=plastic&logo=arduino&logoColor=white" alt=arduino /> 
                 &ensp;
 <img src="https://img.shields.io/badge/canva-%236a3be4.svg?style=plastic&logo=canva&logoColor=white" alt=canva /> 
-                &ensp;
-<img src="https://img.shields.io/badge/javascript-%23f1e05a.svg?style=flat&logo=javascript&logoColor=white" alt=javascript />
                 &ensp;
 </div>
 <!--END_SECTION:SKILL--><br/>
