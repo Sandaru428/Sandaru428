@@ -33,6 +33,8 @@
                 &ensp;
 <img src="https://img.shields.io/badge/canva-%236a3be4.svg?style=plastic&logo=canva&logoColor=white" alt=canva /> 
                 &ensp;
+<img src="https://img.shields.io/badge/javascript-%23f1e05a.svg?style=flat&logo=javascript&logoColor=white" alt=javascript />
+                &ensp;
 </div>
 <!--END_SECTION:SKILL--><br/>
 
