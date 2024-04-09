@@ -15,15 +15,15 @@
 <!--START_SECTION:SKILL-->
 ## <p align = left> 🖥️ 	Tech Stack </p>
 <div align = left>
-<img src="https://img.shields.io/badge/wordpress-%233473d9.svg?style=flat&logo=wordpress&logoColor=white" alt=wordpress /> 
-                &ensp;
-<img src="https://img.shields.io/badge/c-%23555555.svg?style=plastic&logo=c&logoColor=white" alt=c /> 
-                &ensp;
 <img src="https://img.shields.io/badge/javascript-%23f1e05a.svg?style=flat&logo=javascript&logoColor=white" alt=javascript />
                 &ensp;
 <img src="https://img.shields.io/badge/css3-%23563d7c.svg?style=plastic&logo=css3&logoColor=white" alt=css3 /> 
                 &ensp;
 <img src="https://img.shields.io/badge/html5-%23e34c26.svg?style=plastic&logo=html5&logoColor=white" alt=html5 /> 
+                &ensp;
+  <img src="https://img.shields.io/badge/c-%23555555.svg?style=plastic&logo=c&logoColor=white" alt=c /> 
+                &ensp;
+<img src="https://img.shields.io/badge/wordpress-%233473d9.svg?style=flat&logo=wordpress&logoColor=white" alt=wordpress /> 
                 &ensp;
 <img src="https://img.shields.io/badge/latex-%23333333.svg?style=plastic&logo=latex&logoColor=white" alt=latex /> 
                 &ensp;
