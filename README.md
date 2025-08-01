@@ -13,7 +13,7 @@
 <!--END_SECTION:WORK-->
 
 <!--START_SECTION:SKILL-->
-## <p align = left> 🖥️ 	Tech Stack </p>
+## <p align = left> Tech Stack </p>
 <div align = left>
 <img src="https://img.shields.io/badge/next.js-%23262526.svg?style=flat&logo=next.js&logoColor=white" alt=next.js /> &ensp;
 <img src="https://img.shields.io/badge/typescript-%233178c6.svg?style=flat&logo=typescript&logoColor=white" alt=typescript /> &ensp;
@@ -32,8 +32,15 @@
 </div>
 <!--END_SECTION:SKILL--><br/>
 
+<!--START_SECTION:README-STATS-LANGUAGES-->
+## <p align = left> Statistics </p>
+<div align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sandaru428&langs_count=8&theme=transparent&hide_border=false" alt = "Sandaru428"/> 
+</div>
+<!--END_SECTION:README-STATS-LANGUAGES--><br/>
+
 <!--START_SECTION:SOCIAL-->
-## <p align = left> 🌏 	Connect with me </p>
+## <p align = left> Connect with me </p>
 <div align = left>
 <a href=https://www.facebook.com/profile.php?id=100040820630928&mibextid=ZbWKwL ><img src="https://img.shields.io/badge/facebook-Chamara Sandaruwan-%230165E1.svg?style=flat&logo=facebook&logoColor=white" 
                 alt=facebook /></a> &ensp;
