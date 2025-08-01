@@ -15,26 +15,20 @@
 <!--START_SECTION:SKILL-->
 ## <p align = left> 🖥️ 	Tech Stack </p>
 <div align = left>
-<img src="https://img.shields.io/badge/react-%2361dbfb.svg?style=flat&logo=react&logoColor=white" alt=react />
-                &ensp;
-<img src="https://img.shields.io/badge/javascript-%23f1e05a.svg?style=flat&logo=javascript&logoColor=white" alt=javascript />
-                &ensp;
-<img src="https://img.shields.io/badge/css3-%23563d7c.svg?style=plastic&logo=css3&logoColor=white" alt=css3 /> 
-                &ensp;
-<img src="https://img.shields.io/badge/html5-%23e34c26.svg?style=plastic&logo=html5&logoColor=white" alt=html5 /> 
-                &ensp;
-  <img src="https://img.shields.io/badge/c-%23555555.svg?style=plastic&logo=c&logoColor=white" alt=c /> 
-                &ensp;
-<img src="https://img.shields.io/badge/wordpress-%233473d9.svg?style=flat&logo=wordpress&logoColor=white" alt=wordpress /> 
-                &ensp;
-<img src="https://img.shields.io/badge/latex-%23333333.svg?style=plastic&logo=latex&logoColor=white" alt=latex /> 
-                &ensp;
-<img src="https://img.shields.io/badge/python-%233572A5.svg?style=plastic&logo=python&logoColor=white" alt=python /> 
-                &ensp;
-<img src="https://img.shields.io/badge/linux-%23ffcc33.svg?style=plastic&logo=linux&logoColor=white" alt=linux /> 
-                &ensp;
-<img src="https://img.shields.io/badge/arduino-%2300979C.svg?style=plastic&logo=arduino&logoColor=white" alt=arduino /> 
-                &ensp;
+<img src="https://img.shields.io/badge/next.js-%23262526.svg?style=flat&logo=next.js&logoColor=white" alt=next.js /> &ensp;
+<img src="https://img.shields.io/badge/typescript-%233178c6.svg?style=flat&logo=typescript&logoColor=white" alt=typescript /> &ensp;
+<img src="https://img.shields.io/badge/tailwindcss-%233fb3e0.svg?style=flat&logo=tailwindcss&logoColor=white" alt=tailwindcss /> &ensp;
+<img src="https://img.shields.io/badge/react-%2361dbfb.svg?style=flat&logo=react&logoColor=white" alt=react /> &ensp;
+<img src="https://img.shields.io/badge/javascript-%23f1e05a.svg?style=flat&logo=javascript&logoColor=white" alt=javascript /> &ensp;
+<img src="https://img.shields.io/badge/firebase-%23FFA000.svg?style=flat&logo=firebase&logoColor=white" alt=firebase /> &ensp;
+<img src="https://img.shields.io/badge/css3-%23563d7c.svg?style=plastic&logo=css3&logoColor=white" alt=css3 /> &ensp;
+<img src="https://img.shields.io/badge/html5-%23e34c26.svg?style=plastic&logo=html5&logoColor=white" alt=html5 /> &ensp;
+<img src="https://img.shields.io/badge/c-%23555555.svg?style=plastic&logo=c&logoColor=white" alt=c /> &ensp;
+<img src="https://img.shields.io/badge/wordpress-%233473d9.svg?style=flat&logo=wordpress&logoColor=white" alt=wordpress /> &ensp;
+<img src="https://img.shields.io/badge/latex-%23333333.svg?style=plastic&logo=latex&logoColor=white" alt=latex /> &ensp;
+<img src="https://img.shields.io/badge/python-%233572A5.svg?style=plastic&logo=python&logoColor=white" alt=python /> &ensp;
+<img src="https://img.shields.io/badge/linux-%23ffcc33.svg?style=plastic&logo=linux&logoColor=white" alt=linux /> &ensp;
+<img src="https://img.shields.io/badge/arduino-%2300979C.svg?style=plastic&logo=arduino&logoColor=white" alt=arduino /> &ensp;
 </div>
 <!--END_SECTION:SKILL--><br/>
 
