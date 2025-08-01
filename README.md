@@ -39,6 +39,12 @@
 </div>
 <!--END_SECTION:README-STATS-LANGUAGES--><br/>
 
+<!--START_SECTION:PROFILE-VIEWS-->
+<div align = "left">
+    <img src = "https://komarev.com/ghpvc/?username=Sandaru428&color=blue&style=flat" alt = "Sandaru428"/> 
+</div>
+<!--END_SECTION:PROFILE-VIEWS--><br/>
+
 <!--START_SECTION:SOCIAL-->
 ## <p align = left> Connect with me </p>
 <div align = left>
@@ -50,12 +56,5 @@
                 alt=github /></a> &ensp;
 </div>
 <!--END_SECTION:SOCIAL--><br/>
-
-<!--START_SECTION:PROFILE-VIEWS-->
-<div align = "left">
-    <img src = "https://komarev.com/ghpvc/?username=Sandaru428&color=blue&style=flat" alt = "Sandaru428"/> 
-</div>
-<!--END_SECTION:PROFILE-VIEWS--><br/>
-
 
 <!-- Created with CreateME profile readme generator-->
