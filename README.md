@@ -54,6 +54,8 @@
                 alt=instagram /></a> &ensp;
 <a href=https://github.com/Sandaru428 ><img src="https://img.shields.io/badge/github-Sandaru428-%231c1e21.svg?style=flat&logo=github&logoColor=white" 
                 alt=github /></a> &ensp;
+<a href=https://www.linkedin.com/in/sandaruwan-s-w-c-b7141a24b/><img src="https://img.shields.io/badge/linkedin-Sandaruwan S.W.C.-%230072b1.svg?style=flat&logo=linkedin&logoColor=white" 
+                alt=linkedin /></a> &ensp;
 </div>
 <!--END_SECTION:SOCIAL--><br/>
 
